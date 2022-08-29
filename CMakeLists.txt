@@ -3,4 +3,4 @@ project(Tarea1_datos2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Tarea1_datos2 main.cpp)
+add_executable(Tarea1_datos2 Genera_archivos_prueba.cpp)
